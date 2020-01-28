@@ -13,21 +13,21 @@ Finally, it's a really simple way to manage testimonials on your site as Testimo
 
 # Basic Input Feilds:
 
-> Image
-> Testimonial title or Tagline
-> Testimonial content or Review message
-> Reviewer name(Author)
+- Image
+- Testimonial title or Tagline
+- Testimonial content or Review message
+- Reviewer name(Author)
 
 
 # Features: 
 
-Fully Responsive and Mobile friendly.
-Add maximum 9 testimonials.
-AutoPlay.
-Insert the generated template code.
-Easy to customize and stylize.
-Extremely user-friendly settings panel for coders and non-coders alike.
-And much more options.
+- Fully Responsive and Mobile friendly.
+- Add maximum 9 testimonials.
+- AutoPlay.
+- Insert the generated template code.
+- Easy to customize and stylize.
+- Extremely user-friendly settings panel for coders and non-coders alike.
+- And much more options.
 
 # SUPPORT
 If you find any issue or need help, please ask us. We are active in https://help.hubspot.com/ Support Forum.
