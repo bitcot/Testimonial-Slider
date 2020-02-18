@@ -1,0 +1,25 @@
+{
+  "content_tags" : [ ],
+  "css_assets" : [ {
+    "url" : "https://cdn2.hubspot.net/hubfs/7029090/owl.carousel.css",
+    "name" : "owl.carousel.css",
+    "autoload" : true
+  } ],
+  "external_js" : [ ],
+  "extra_classes" : "",
+  "global" : false,
+  "host_template_types" : [ "PAGE" ],
+  "js_assets" : [ {
+    "url" : "https://cdn2.hubspot.net/hubfs/7029090/jquery-3.4.1.min.js",
+    "name" : "jquery-3.4.1.min.js",
+    "autoload" : true
+  }, {
+    "url" : "https://cdn2.hubspot.net/hubfs/7029090/owl.carousel.js",
+    "name" : "owl.carousel.js",
+    "autoload" : true
+  } ],
+  "other_assets" : [ ],
+  "smart_type" : "NOT_SMART",
+  "module_id" : 24869844928,
+  "is_available_for_new_content" : true
+}
